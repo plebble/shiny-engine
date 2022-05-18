@@ -1,0 +1,12 @@
+{
+    "info" : {
+        "type" : "creation-schema"
+    },
+
+    "payload" : {
+        "path" : {
+            "database" : "database/testdatabase.sqlite",
+            "files" : "filestorage"
+        }
+    }
+}
