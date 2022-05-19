@@ -5,7 +5,7 @@
 
     "payload" : {
         "path" : {
-            "database" : "database/testdatabase.sqlite",
+            "database" : "database/testdatabase.db",
             "files" : "filestorage"
         }
     }
